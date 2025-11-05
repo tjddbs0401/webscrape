@@ -1,4 +1,4 @@
-# Webscrape Intern — Root README
+# Webscrape — Root README
 
 This is the **main README** for the overall `webscrape` project.
 
